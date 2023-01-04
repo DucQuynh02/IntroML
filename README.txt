@@ -17,4 +17,4 @@ Sử dụng chương trình bằng VSCode:
         Chạy file splitData.py để chia tập dữ liệu (mở terminal tại vị trí file splitData) 
         Chạy file EDA.ipynb để xem các biểu đồ được mô tả từ tập train
         Chạy file Predict.ipynb để xây dựng model, kết quả model
-        Có thể tham khảo thêm file NaiveBayesTesting.ipynb
+        Có thể tham khảo thêm file NaiveBayesTesting.ipynb, KNNTesting.ipynb
